@@ -5,6 +5,25 @@
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
+                       Special Provisions
+                            特殊条款
+
+附加条款：
+1. 署名要求：任何使用或修改本代码的衍生作品，必须在显著位置注明原始作者（[你的GitHub用户名]）。
+2. 禁止收费：本软件及其衍生作品不得以任何形式直接收费（包括销售、订阅、付费下载等）。
+3. 违反附加条款将导致GPL-3.0授予的权利自动终止。
+4. 企业直接在代码上提供云服务（而不分发软件），需公开修改后的代码。
+Additional terms:
+1. Attribution requirement: Any derivative works that use or modify this code must
+prominently indicate the original author ([your GitHub username]).
+2. Prohibition of Fees: This software and its derivative works shall not be directly
+charged in any form (including sales, subscriptions, paid downloads, etc.).
+3. Violation of additional terms will result in automatic termination of the rights
+granted by GPL-3.0.
+4. Enterprises providing cloud services directly on the code (without distributing
+software) need to publicly disclose the modified code.
+
+
                             Preamble
 
   The GNU General Public License is a free, copyleft license for
